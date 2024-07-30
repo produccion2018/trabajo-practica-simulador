@@ -1,0 +1,35 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+   background-color: brown;
+   
+}
+
+h1{
+font-family: "Noto Sans KR", sans-serif;
+font-size: 4rem;
+     text-align: center; 
+}  
+h1:hover {
+    color: white;
+}
+
+.nav-link{
+    font-family: "Roboto", sans-serif;
+    color: white;
+    font-weight: bold;
+    font-size: 1rem
+   
+  }
+  
+  .navbar {
+    padding: 1rem;
+    background-color: #f5f6f7;
+  }
+  
+  .navbar-collapse {
+    align-items: center;
+    justify-content: space-between;  
+  }
+  
